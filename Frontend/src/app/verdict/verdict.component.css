@@ -1,0 +1,22 @@
+.verdict {
+    border: 8px solid #0a4275;;
+    background-color: #dedede;
+    text-align: center;
+    height: 5em;
+    margin: 1%;
+    padding: 1%;
+}
+
+#judgement {
+    font-size: larger;
+    float: left;
+    padding: 5%;
+    padding-left: 15%;
+}
+
+#confidence {
+    font-size: larger;
+    float: right;
+    padding: 5%;
+    padding-right: 15%;
+}

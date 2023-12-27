@@ -1,0 +1,16 @@
+.processedFootage {
+    border: 8px solid #0a4275;
+    background-color: #dedede;
+    text-align: center;
+    height: 30em;
+    margin: 1%;
+    padding: 1%;
+}
+
+.footageHeading {
+    position: absolute;
+    text-align: center;
+    top: -30%;
+    left: -1%;
+    width: 97.5%;
+}

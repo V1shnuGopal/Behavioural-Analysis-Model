@@ -1,0 +1,8 @@
+<div class="keyFrames">
+    <div class="heading">Key Frames</div>
+    <div>
+        <p *ngFor="let frame of keyFrames">
+            <img [src]="base64ToImage(frame)" width="100" />
+        </p>
+    </div>
+</div>

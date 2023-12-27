@@ -1,0 +1,9 @@
+.keyFrames {
+    border: 8px solid #0a4275;
+    background-color: #dedede;
+    text-align: center;
+    height: 30em;
+    margin: 2%;
+    padding: 1%;
+    overflow: auto;
+}
